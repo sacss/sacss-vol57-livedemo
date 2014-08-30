@@ -1,5 +1,4 @@
-# develop用
-# develop用
+# develop用２度目
 
 # デモ用リポジトリ
 
